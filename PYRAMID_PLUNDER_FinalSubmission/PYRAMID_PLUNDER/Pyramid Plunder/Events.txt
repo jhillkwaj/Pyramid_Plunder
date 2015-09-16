@@ -1,0 +1,32 @@
+Feb 17, 2014 12:59:12 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Log started
+Feb 17, 2014 12:59:12 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Running Code
+Feb 17, 2014 12:59:12 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 17, 2014 12:59:12 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Importing Graphics
+Feb 17, 2014 12:59:23 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting start menu
+Feb 17, 2014 12:59:31 PM pyramid.plunder.ErrorLogger logMessage
+INFO: test...starting
+Feb 17, 2014 12:59:31 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 17, 2014 12:59:31 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Looking for player data
+Feb 17, 2014 12:59:31 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Player data found
+Feb 17, 2014 12:59:31 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting Game
+Feb 17, 2014 12:59:31 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Loading game
+Feb 17, 2014 12:59:59 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 17, 2014 12:59:59 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting Generation
+Feb 17, 2014 1:02:58 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Opening Options Menu
+Feb 17, 2014 1:02:58 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Saveing game
+Feb 17, 2014 1:02:58 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Game Saved

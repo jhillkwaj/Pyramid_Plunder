@@ -1,0 +1,62 @@
+Feb 07, 2014 3:20:42 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Log started
+Feb 07, 2014 3:20:42 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Running Code
+Feb 07, 2014 3:20:42 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:20:42 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Importing Graphics
+Feb 07, 2014 3:21:08 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:21:08 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting tutorial
+Feb 07, 2014 3:22:37 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:22:37 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:22:41 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting start menu
+Feb 07, 2014 3:22:51 PM pyramid.plunder.ErrorLogger logMessage
+INFO: null...starting
+Feb 07, 2014 3:22:56 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:22:56 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting Generation
+Feb 07, 2014 3:25:47 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Saveing game
+Feb 07, 2014 3:25:47 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Game Saved
+Feb 07, 2014 3:26:03 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Saveing game
+Feb 07, 2014 3:26:03 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Game Saved
+Feb 07, 2014 3:26:10 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:26:10 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting Generation
+Feb 07, 2014 3:30:00 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Opening Options Menu
+Feb 07, 2014 3:30:01 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Saveing game
+Feb 07, 2014 3:30:01 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Game Saved
+Feb 07, 2014 3:30:01 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Saveing game
+Feb 07, 2014 3:30:01 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Game Saved
+Feb 07, 2014 3:30:06 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:30:12 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting start menu
+Feb 07, 2014 3:30:22 PM pyramid.plunder.ErrorLogger logMessage
+INFO: asdasd...starting
+Feb 07, 2014 3:30:22 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:30:22 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Looking for player data
+Feb 07, 2014 3:30:22 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Player data found
+Feb 07, 2014 3:30:22 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting Game
+Feb 07, 2014 3:30:22 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Loading game

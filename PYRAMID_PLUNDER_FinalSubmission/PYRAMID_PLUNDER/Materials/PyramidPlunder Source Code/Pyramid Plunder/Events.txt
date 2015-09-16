@@ -1,0 +1,12 @@
+Feb 07, 2014 3:04:25 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Log started
+Feb 07, 2014 3:04:25 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Running Code
+Feb 07, 2014 3:04:25 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:04:25 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Importing Graphics
+Feb 07, 2014 3:04:29 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Adding Shader
+Feb 07, 2014 3:04:29 PM pyramid.plunder.ErrorLogger logMessage
+INFO: Starting tutorial

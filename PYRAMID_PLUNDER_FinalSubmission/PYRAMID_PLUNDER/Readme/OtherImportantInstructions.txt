@@ -1,0 +1,8 @@
+Other Instructions:
+
+1. The JavaDocs are located in the PyramidPlunder File, open them with 
+Internet Explorer/Google Chrome. Right Click on the JavaDocs File, and choose 'open with'
+Internet Explorer or Google Chrome.
+
+2. The User Manual is located in the PyramidPlunder File and must be
+read in order to fully understand the game's concepts. Please Read.
